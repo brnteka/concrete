@@ -1,0 +1,9 @@
+/* purgecss start ignore */
+@import "~normalize.css/normalize";
+@import "fonts";
+@import "base";
+.x {
+	color: red;
+}
+/* purgecss end ignore */
+@import "modal";
